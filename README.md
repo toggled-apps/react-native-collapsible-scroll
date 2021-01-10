@@ -2,7 +2,7 @@
 
 This react native module is intended to provide a beautifully animated collapsible scroll view which you can customise and use in your own projects.
 
-![Example](./assets/react-native-collapsible-scroll.gif)
+![Example](./assets/react-native-collapsible-scroll-gif.gif)
 
 ## Usage
 

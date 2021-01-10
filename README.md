@@ -12,7 +12,7 @@ or
 npm install @toggled-apps/react-native-collapsible-scroll
 ```
 ## Dependencies
-This module imports Gesture Handler and Reanimated v1 as dependencies, these are required for `@gorhom/bottom-sheet` [dependency](https://github.com/gorhom/react-native-bottom-sheet). These may conflict with your own dependency versioning. You can follow these instructions to install them yourself:
+This module imports Gesture Handler and Reanimated v2 as dependencies. These may conflict with your own dependency versioning. You can follow these instructions to install them yourself:
 
 ### For React Native (Unmanaged)
 ```

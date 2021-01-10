@@ -1,4 +1,4 @@
-# React Native Product Selector
+# React Native Collapsible Scroll
 
 This react native module is intended to provide a beautifully animated collapsible scroll view which you can customise and use in your own projects.
 
